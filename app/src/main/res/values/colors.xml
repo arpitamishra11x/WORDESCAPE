@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_lavender">#A78BFA</color>
+    <color name="sky_blue">#7DD3FC</color>
+    <color name="soft_gold">#FCD34D</color>
+    <color name="cloud_white">#F8FAFC</color>
+    <color name="forest_green">#86EFAC</color>
+    <color name="sunset_pink">#F9A8D4</color>
+    <color name="deep_night">#0F172A</color>
+</resources>

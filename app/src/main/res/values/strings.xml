@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WordScape</string>
+    <string name="tagline">Learn words by bringing worlds to life</string>
+    <string name="begin_adventure">Begin Adventure →</string>
+    <string name="welcome_explorer">Good Morning, Explorer ✨</string>
+    <string name="ready_to_discover">Ready to discover a new word?</string>
+    <string name="todays_world">Today\'s World</string>
+    <string name="continue_adventure">Continue →</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_journal">Journal</string>
+    <string name="nav_forest">Forest</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_ar">AR</string>
+    <string name="ar_coming_soon">AR Mode Coming Soon</string>
+    <string name="ar_desc">Soon you\'ll be able to see letters floating in your room and watch animals walk across your table!</string>
+    <string name="ar_architecture_info">ARCore Ready Architecture. Future integration ready.</string>
+</resources>
